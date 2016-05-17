@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripits\PlayerController.cs">
+    <Files>
+      <File FileName="Assets\Scripits\Mover.cs" Line="35" Column="39" />
+      <File FileName="Assets\Scripits\cornController.cs" Line="21" Column="71" />
+      <File FileName="Assets\Scripits\broccoliController.cs" Line="17" Column="3" />
+      <File FileName="Assets\Scripits\PlayerController.cs" Line="21" Column="43" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
